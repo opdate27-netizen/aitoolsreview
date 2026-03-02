@@ -739,6 +739,449 @@ If image quality matters to you, Midjourney is still the best AI image generator
 **Rating: 4.9/5**
     `,
   },
+  {
+    slug: "murf-ai-review-2026",
+    title: "Murf.ai Review 2026 — The Best AI Voiceover Tool for Creators?",
+    excerpt: "Murf.ai promises studio-quality AI voiceovers without a microphone. After testing it on 20+ projects, here's our honest verdict.",
+    date: "2026-03-11",
+    readTime: "7 min read",
+    category: "AI Voice",
+    content: `
+# Murf.ai Review 2026
+
+Creating professional voiceovers used to mean booking a studio or hiring a voice actor. Murf.ai changed that. Here's our full review after testing it on real projects.
+
+## What Is Murf.ai?
+
+Murf.ai is an AI voice generator with 120+ studio-quality voices across 20+ languages. You type a script, pick a voice, adjust pitch and speed, and export. It also syncs audio directly to video — making it a one-stop shop for voiceover production.
+
+## Who It's For
+
+- **Course creators** who need professional narration without recording
+- **Explainer video makers** who want polished voiceovers fast
+- **Marketing teams** producing product demos and ad narrations
+- **Podcasters** who want to add segments without re-recording
+
+## What We Tested
+
+We used Murf to voice 20+ scripts ranging from 30-second ad copy to 10-minute explainer scripts. We compared it head-to-head with ElevenLabs.
+
+## Voice Quality
+
+Murf's voices are professional and clear — noticeably better than older text-to-speech tools. The studio-quality library sounds polished and natural for business content.
+
+That said, ElevenLabs produces more emotionally nuanced voices. Murf sounds professional; ElevenLabs sounds human. For corporate and educational content, Murf is excellent. For storytelling or high-emotion content, ElevenLabs has the edge.
+
+## The Video Sync Feature
+
+Murf's standout feature is video sync — you drop in your video, add the script, and Murf aligns the audio automatically. This eliminates the need for a separate audio editor and makes it genuinely fast to produce narrated videos.
+
+## Pricing
+
+| Plan | Price | Voice Generation |
+|------|-------|-----------------|
+| Free | $0 | 10 minutes |
+| Creator | $19/mo | 2 hours/month |
+| Business | $26/mo | 4 hours/month |
+
+At $19/month, Creator is solid value for regular content creators.
+
+## Pros & Cons
+
+**Pros:**
+- 120+ professional voices
+- Video sync built in
+- Clean, easy interface
+- Good language variety
+- Affordable pricing
+
+**Cons:**
+- Less natural than ElevenLabs
+- No real-time voice cloning on entry plans
+- Free plan very limited (10 minutes)
+- Voice variety can sound similar on lower plans
+
+## Our Verdict
+
+Murf.ai is an excellent AI voiceover tool for business and educational content — clean, professional, and easy to use. If you need maximum realism or voice cloning, ElevenLabs is the better pick. But for most voiceover use cases, Murf delivers great results at a fair price.
+
+**Rating: 4.6/5**
+    `,
+  },
+  {
+    slug: "invideo-ai-review-2026",
+    title: "InVideo AI Review 2026 — Turn Any Idea Into a Video in Minutes",
+    excerpt: "InVideo AI promises to turn text prompts into polished videos instantly. We tested it on 30+ videos to see if it delivers.",
+    date: "2026-03-12",
+    readTime: "8 min read",
+    category: "AI Video",
+    content: `
+# InVideo AI Review 2026
+
+InVideo AI has quickly become one of the most popular AI video tools for content creators and marketers. The promise: type a prompt, get a video. Here's whether it lives up to that promise.
+
+## What Is InVideo AI?
+
+InVideo AI is a text-to-video platform with 5,000+ templates, AI voiceover, and a massive stock media library. You describe what you want, and AI assembles a video from stock footage, adds music, voiceover, and captions automatically.
+
+## The Workflow
+
+1. Enter a topic or paste a script
+2. AI generates a storyboard with scenes
+3. Customize scenes, swap footage, edit text
+4. Add AI voiceover or upload your own
+5. Export and share
+
+The whole process takes 5–15 minutes for a polished video.
+
+## Video Quality
+
+InVideo's output is impressive for the speed. Videos look professional — clean transitions, relevant stock footage, proper captions. It won't win any film festivals, but for YouTube, social media, and marketing content it's genuinely good.
+
+We created 30+ videos across different niches and styles. About 85% needed minimal editing before publishing. The AI is surprisingly good at matching footage to topic.
+
+## Templates: 5,000+ and Growing
+
+The template library is InVideo's secret weapon. Every format, platform, and style is covered — YouTube intros, Instagram Reels, LinkedIn videos, product demos, explainers, news-style content. Whatever you need, there's a starting point.
+
+## Pricing
+
+| Plan | Price | Videos/Month |
+|------|-------|-------------|
+| Free | $0 | 10 min/week |
+| Plus | $20/mo | 60 AI videos |
+| Max | $48/mo | 120 AI videos |
+
+The Plus plan at $20/month is excellent value for regular content creators.
+
+## Pros & Cons
+
+**Pros:**
+- Fastest text-to-video workflow available
+- 5,000+ templates for every use case
+- Built-in stock library (no extra cost)
+- AI voiceover included
+- Good free plan
+
+**Cons:**
+- Watermark on free plan
+- Less cinematic than Runway ML
+- AI voice can sound robotic
+- Stock footage can feel generic
+
+## InVideo vs Pictory
+
+Both turn text into video, but they serve slightly different use cases:
+- **InVideo AI** — better for creating new videos from scratch
+- **Pictory** — better for repurposing existing blog posts into video
+
+## Our Verdict
+
+InVideo AI is the best value text-to-video tool in 2026. For the price, the output quality and template variety are hard to beat. If you're creating social or marketing videos at scale, it's a no-brainer.
+
+**Rating: 4.5/5**
+    `,
+  },
+  {
+    slug: "gamma-ai-review-2026",
+    title: "Gamma Review 2026 — AI Presentations That Actually Look Good",
+    excerpt: "Gamma creates stunning presentations from a single prompt. We tested it against PowerPoint and Google Slides to see if it really changes the game.",
+    date: "2026-03-13",
+    readTime: "7 min read",
+    category: "AI Productivity",
+    content: `
+# Gamma Review 2026
+
+Making presentations has always been painful. Pick a template, fight with layouts, spend an hour on slides that should take 10 minutes. Gamma changes this. Here's our full review.
+
+## What Is Gamma?
+
+Gamma is an AI-powered presentation tool that generates complete, beautifully designed decks from a text prompt. Describe your presentation, Gamma builds it — structure, content, images, and all. You edit what you want, publish with a link.
+
+## The Magic: From Prompt to Deck in 60 Seconds
+
+We tested Gamma with 15 different presentation requests — sales decks, investor pitches, product overviews, training materials, and educational content.
+
+The results were consistently impressive. Gamma's AI doesn't just fill in templates — it understands the purpose of your presentation and structures content intelligently. An investor pitch gets a problem/solution/market/traction structure automatically. A training deck gets clear sections with progressive complexity.
+
+## Design Quality
+
+This is where Gamma genuinely shines. The visual design is excellent — clean typography, smart use of images, properly proportioned layouts. The presentations look like something a designer spent hours on.
+
+Compare this to the average PowerPoint made by someone who isn't a designer, and Gamma wins every time.
+
+## Beyond Slides: Docs and Web Pages
+
+Gamma isn't just for presentations — it also creates:
+- **Documents** — long-form content with smart formatting
+- **Webpages** — shareable web-based content (no hosting needed)
+
+All three formats are shareable via link, which is often more practical than emailing PowerPoint files.
+
+## Pricing
+
+| Plan | Price | AI Credits |
+|------|-------|-----------|
+| Free | $0 | 400 credits |
+| Plus | $10/mo | Unlimited |
+| Pro | $20/mo | Unlimited + custom domains |
+
+The free plan gives you 400 credits — enough to build several full decks and evaluate whether it's right for you.
+
+## Pros & Cons
+
+**Pros:**
+- Stunning designs generated instantly
+- Works for slides, docs, and web pages
+- Easy sharing via link
+- Excellent free plan
+- AI layout is genuinely intelligent
+
+**Cons:**
+- Less control than PowerPoint for pixel-perfect work
+- Custom branding requires paid plan
+- AI occasionally misunderstands complex briefs
+- Template variety still growing
+
+## Our Verdict
+
+Gamma is the best AI presentation tool in 2026 — and it's not close. If you make presentations regularly and aren't a professional designer, it will save you hours every week. The free plan is generous enough to fully evaluate it before committing.
+
+**Rating: 4.6/5**
+    `,
+  },
+  {
+    slug: "perplexity-ai-review-2026",
+    title: "Perplexity AI Review 2026 — The Google Killer That Cites Its Sources",
+    excerpt: "Perplexity AI gives you direct answers to complex questions with cited sources. Is it finally a real replacement for Google? Our full review.",
+    date: "2026-03-14",
+    readTime: "8 min read",
+    category: "AI Writing",
+    content: `
+# Perplexity AI Review 2026
+
+Google has dominated search for 25 years. Perplexity AI is the most serious challenger yet — and it works completely differently. Instead of a list of links, you get a direct answer with sources. Here's our full review.
+
+## What Is Perplexity AI?
+
+Perplexity is an AI-powered search engine that answers questions conversationally, pulls from real-time web sources, and cites every claim. It combines the knowledge of large language models with live web search — giving you answers that are both intelligent and verifiable.
+
+## The Core Experience
+
+Type a question into Perplexity and you get:
+1. A direct, comprehensive answer (not a list of links)
+2. Sources cited inline (click to verify)
+3. Follow-up question suggestions
+4. The ability to continue the conversation
+
+For most research tasks, this is dramatically more efficient than traditional search.
+
+## Where Perplexity Beats Google
+
+**Research:** Perplexity synthesizes information from multiple sources into a single, coherent answer. What would take 15 minutes of reading different articles takes 2 minutes with Perplexity.
+
+**Complex questions:** "What's the best programming language for building a mobile app that needs to work offline?" — Google gives you 10 articles to read. Perplexity gives you a direct recommendation with reasoning.
+
+**Fact-checking:** Every claim is sourced. You can see exactly where the information came from and verify it yourself.
+
+## Where Google Still Wins
+
+- Local search ("coffee shops near me")
+- Shopping and product search
+- Image search
+- Finding specific websites you know exist
+
+## The Pro Plan: Is It Worth $20/Month?
+
+Perplexity Pro unlocks:
+- 600+ Pro searches per day (vs 5 on free)
+- Access to GPT-4o, Claude, and Gemini models
+- Image generation (DALL-E + Stable Diffusion)
+- File upload and analysis
+
+For power users who use Perplexity as their primary research tool, $20/month is worth it. For casual users, the free plan handles most needs.
+
+## Pros & Cons
+
+**Pros:**
+- Always cites sources — no hallucinations without evidence
+- Real-time web data
+- Multiple AI models on Pro
+- Clean, fast interface
+- Genuinely changes how you do research
+
+**Cons:**
+- Not built for creative writing or content creation
+- Limited Pro searches on free plan
+- Can oversimplify very complex topics
+- Some niche topics have sparse source quality
+
+## Our Verdict
+
+Perplexity AI is the best research tool available in 2026. It doesn't fully replace Google — especially for local and commercial searches — but for information research, it's faster and more useful than traditional search. The free plan is excellent. Start there.
+
+**Rating: 4.7/5**
+    `,
+  },
+  {
+    slug: "loom-review-2026",
+    title: "Loom Review 2026 — The Best Way to Replace Meetings With Video",
+    excerpt: "Loom lets you record your screen, add AI summaries, and share with a link. After 6 months of daily use, here's our verdict.",
+    date: "2026-03-15",
+    readTime: "7 min read",
+    category: "AI Productivity",
+    content: `
+# Loom Review 2026
+
+Email is too slow. Slack messages lose context. Meetings waste everyone's time. Loom offers a fourth option: record a quick video, share a link, and let people watch when it suits them. Here's our full review.
+
+## What Is Loom?
+
+Loom is a video messaging tool that lets you record your screen and/or camera instantly, then share with a link. AI automatically generates transcripts, summaries, chapters, and action items from every recording. No editing required.
+
+## The Core Use Case
+
+Instead of scheduling a 30-minute meeting to walk someone through a document, you record a 5-minute Loom. They watch it when they're ready, leave comments, and you're done. The async communication problem, solved.
+
+## AI Features That Actually Save Time
+
+Loom's AI features (on Business plan) are genuinely useful:
+
+**Auto-transcripts** — Every video is transcribed automatically. Search your entire video library for what anyone said.
+
+**AI summaries** — Loom generates a written summary of every video automatically. Anyone can understand the content without watching.
+
+**AI chapters** — Long videos are automatically split into chapters with titles. Navigation becomes easy.
+
+**Filler word removal** — Say "um" 50 times? Loom removes them all automatically.
+
+**Action item extraction** — AI identifies tasks mentioned in the video and lists them separately.
+
+## The Free Plan
+
+Loom's free plan is more limiting than it used to be:
+- 25 videos maximum
+- 5-minute recording limit per video
+- 720p quality
+- AI summaries included (this is new and great)
+
+The 25-video and 5-minute limits will frustrate anyone using it regularly. The Business plan at $15/month removes both.
+
+## Pricing
+
+| Plan | Price | Key Limits |
+|------|-------|-----------|
+| Starter | $0 | 25 videos, 5 min max |
+| Business | $15/mo/user | Unlimited, no time limit |
+| Business + AI | $20/mo/user | All AI features |
+
+## Pros & Cons
+
+**Pros:**
+- Fastest way to share complex information
+- AI summaries save viewers time
+- Viewer reactions and comments built in
+- Works everywhere — Slack, Notion, email, Jira
+- Great for remote and async teams
+
+**Cons:**
+- Free plan limits are frustrating
+- AI features cost extra ($20 vs $15)
+- 5-minute free limit is too short for most use cases
+- Video storage expires on free plan
+
+## Our Verdict
+
+Loom is the best async video tool available and the AI features make it even more valuable in 2026. For remote teams, it's essential. The free plan is worth trying but you'll hit the limits quickly. At $15/month, the Business plan is well worth it for anyone who does regular screen sharing or walkthroughs.
+
+**Rating: 4.7/5**
+    `,
+  },
+  {
+    slug: "frase-io-review-2026",
+    title: "Frase.io Review 2026 — The Fastest Way to Write SEO Content That Ranks",
+    excerpt: "Frase combines AI writing with SERP research to help you outrank competitors. At $15/month, it's the most affordable SEO content tool we've tested.",
+    date: "2026-03-16",
+    readTime: "8 min read",
+    category: "SEO Tools",
+    content: `
+# Frase.io Review 2026
+
+Most SEO content tools do one thing well — research or writing, but not both. Frase.io does both in one workflow, at a price that actually makes sense. Here's our full review.
+
+## What Is Frase.io?
+
+Frase is an AI-powered SEO content platform that analyzes the top-ranking pages for any keyword, builds a content brief automatically, then helps you write and optimize content using AI. It's the most streamlined SEO content workflow we've tested.
+
+## The Frase Workflow
+
+1. Enter your target keyword
+2. Frase analyzes the top 20 SERP results instantly
+3. Auto-generates a content brief (headings, questions, word count target)
+4. Write using the AI writing assistant with live optimization scoring
+5. Content score tells you how you compare to competitors
+
+The whole process takes 30–60 minutes for a fully optimized article. Without Frase, it takes 3–4 hours.
+
+## The SERP Brief: The Real Value
+
+The content brief is where Frase earns its price. In 30 seconds, you get:
+
+- **Suggested headings** — What the top-ranking articles cover
+- **People Also Ask questions** — What searchers actually want answered
+- **Target word count** — What length tends to rank for this keyword
+- **NLP terms to include** — Semantic keywords that help Google understand your content
+- **Content score** — How your draft compares to current page-1 results
+
+This replaces 2–3 hours of manual SERP research.
+
+## AI Writing Quality
+
+Frase's AI writing is solid for SEO content — it produces factually reasonable drafts that follow the brief. It's not as creative as Jasper or Claude, but for SEO articles you're optimizing for search intent more than style.
+
+We used Frase to draft 10 articles. All needed editing, but all started from a better place than a blank page.
+
+## Pricing — Most Affordable in Its Category
+
+| Plan | Price | Articles/Month |
+|------|-------|---------------|
+| Solo | $15/mo | 4 |
+| Basic | $45/mo | 30 |
+| Team | $115/mo | Unlimited |
+
+At $15/month for the Solo plan, Frase is the most affordable SEO content tool with real research capabilities. Surfer SEO starts at $89/month for similar functionality.
+
+## Frase vs Surfer SEO
+
+Both are excellent SEO content tools. Here's the key difference:
+
+- **Frase** — Better SERP research and content briefs. More affordable. AI writing built in.
+- **Surfer SEO** — Better optimization scoring. Stronger NLP analysis. More expensive.
+
+For most solo bloggers and small teams: **Frase is the better value**. For agencies and serious SEO professionals: Surfer SEO's depth justifies the premium.
+
+## Pros & Cons
+
+**Pros:**
+- Best content brief generation in its price range
+- AI writing built in — no extra tools needed
+- Real-time content scoring against competitors
+- Most affordable entry price ($15/mo)
+- Great for solo bloggers and small teams
+
+**Cons:**
+- Article limits on lower plans
+- AI writing less polished than dedicated tools
+- Less data depth than Ahrefs/SEMrush
+- UI can feel cramped on smaller screens
+
+## Our Verdict
+
+Frase.io is the best value SEO content tool in 2026. For solo bloggers and small content teams, it replaces hours of manual SERP research and gives you everything you need to write content that ranks — at a fraction of the cost of competitors.
+
+**Rating: 4.5/5**
+    `,
+  },
 ]
 
 export function getPostBySlug(slug: string): BlogPost | undefined {
