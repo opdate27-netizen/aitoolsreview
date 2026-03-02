@@ -32,6 +32,8 @@ const categoryIcons: Record<string, string> = {
   "AI Video": "🎬",
   "AI Design": "🎨",
   "Web Hosting": "🌐",
+  "AI Voice": "🎙️",
+  "AI Productivity": "⚡",
 }
 
 export default function HomePage() {
