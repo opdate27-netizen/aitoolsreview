@@ -71,8 +71,54 @@ export default async function ToolDetailPage({ params }: { params: Params }) {
   }
   const gradient = logoColors[tool.logo] ?? "from-violet-500 to-cyan-500"
 
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://aitoolsreview.com"
+
+  const reviewSchema = {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    name: `${tool.name} Review`,
+    reviewRating: {
+      "@type": "Rating",
+      ratingValue: tool.rating,
+      bestRating: 5,
+      worstRating: 1,
+    },
+    author: { "@type": "Organization", name: "AI Tools Review" },
+    itemReviewed: {
+      "@type": "SoftwareApplication",
+      name: tool.name,
+      description: tool.tagline,
+      applicationCategory: tool.category,
+      offers: {
+        "@type": "Offer",
+        price: tool.pricing.free ? "0" : tool.pricing.startingAt.replace(/[^0-9.]/g, ""),
+        priceCurrency: "USD",
+      },
+    },
+    url: `${siteUrl}/tools/${tool.slug}`,
+    description: tool.description,
+  }
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: siteUrl },
+      { "@type": "ListItem", position: 2, name: "Tools", item: `${siteUrl}/tools` },
+      { "@type": "ListItem", position: 3, name: tool.name, item: `${siteUrl}/tools/${tool.slug}` },
+    ],
+  }
+
   return (
     <main className="max-w-5xl mx-auto px-4 py-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       {/* Breadcrumb */}
       <nav className="flex items-center gap-1.5 text-sm text-zinc-500 mb-8">
         <Link href="/" className="hover:text-zinc-300 transition-colors">Home</Link>

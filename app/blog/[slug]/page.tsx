@@ -111,8 +111,32 @@ export default async function BlogPostPage({ params }: { params: Params }) {
   const otherPosts = blogPosts.filter((p) => p.slug !== slug).slice(0, 2)
   const relatedTools = getRelatedTools(post.category, slug)
 
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://aitoolsreview.com"
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: post.title,
+    description: post.excerpt,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: { "@type": "Organization", name: "AI Tools Review", url: siteUrl },
+    publisher: {
+      "@type": "Organization",
+      name: "AI Tools Review",
+      url: siteUrl,
+      logo: { "@type": "ImageObject", url: `${siteUrl}/favicon.ico` },
+    },
+    url: `${siteUrl}/blog/${post.slug}`,
+    mainEntityOfPage: { "@type": "WebPage", "@id": `${siteUrl}/blog/${post.slug}` },
+  }
+
   return (
     <main className="max-w-4xl mx-auto px-4 py-10">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       {/* Back link */}
       <Link
         href="/blog"
