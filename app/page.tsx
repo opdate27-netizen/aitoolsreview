@@ -1,6 +1,7 @@
 import { tools } from "@/lib/tools"
 import { blogPosts } from "@/lib/blog"
 import ToolCard from "@/components/ui/ToolCard"
+import ComparisonPicker from "@/components/ComparisonPicker"
 import Link from "next/link"
 import { ArrowRight, Star, Shield, TrendingUp, Zap } from "lucide-react"
 import type { Metadata } from "next"
@@ -113,6 +114,11 @@ export default function HomePage() {
             <ToolCard key={tool.slug} tool={tool} />
           ))}
         </div>
+      </section>
+
+      {/* ── Comparison Picker ── */}
+      <section className="py-6 max-w-6xl mx-auto px-4">
+        <ComparisonPicker />
       </section>
 
       {/* ── Browse by Category ── */}

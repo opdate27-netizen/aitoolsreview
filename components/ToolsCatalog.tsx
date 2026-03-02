@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react"
 import { tools, categories } from "@/lib/tools"
 import ToolCard from "@/components/ui/ToolCard"
+import ComparisonPicker from "@/components/ComparisonPicker"
 import { Search, SlidersHorizontal } from "lucide-react"
 
 const ALL = "All"
@@ -49,6 +50,11 @@ export default function ToolsCatalog({ initialCategory }: { initialCategory: str
         <p className="text-zinc-400">
           Browse {tools.length} AI tools — rated and reviewed by our team
         </p>
+      </div>
+
+      {/* Comparison Picker */}
+      <div className="mb-8">
+        <ComparisonPicker />
       </div>
 
       {/* Search + Sort bar */}
