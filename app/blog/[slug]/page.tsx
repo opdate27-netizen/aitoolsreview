@@ -67,6 +67,12 @@ const logoColors: Record<string, string> = {
   AF: "from-red-500 to-orange-400",
   OT: "from-teal-500 to-green-500",
   DL: "from-indigo-500 to-blue-400",
+  MU: "from-purple-500 to-violet-500",
+  IV: "from-blue-500 to-indigo-500",
+  GA: "from-orange-400 to-pink-500",
+  PX: "from-teal-500 to-cyan-500",
+  LO: "from-violet-600 to-purple-600",
+  FR: "from-green-500 to-teal-500",
 }
 
 // Map post categories to tool categories
