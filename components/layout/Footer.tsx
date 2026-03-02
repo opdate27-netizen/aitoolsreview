@@ -31,9 +31,11 @@ export default function Footer() {
             <h3 className="text-sm font-semibold text-zinc-300 mb-3">Site</h3>
             <ul className="space-y-2 text-sm text-zinc-500">
               <li><Link href="/blog" className="hover:text-white transition-colors">Blog</Link></li>
+              <li><Link href="/deals" className="hover:text-white transition-colors">Deals</Link></li>
               <li><Link href="/free-guide" className="hover:text-white transition-colors">Free Guide</Link></li>
               <li><Link href="/compare/jasper-ai-vs-writesonic" className="hover:text-white transition-colors">Comparisons</Link></li>
               <li><Link href="/tools" className="hover:text-white transition-colors">All Tools</Link></li>
+              <li><Link href="/about" className="hover:text-white transition-colors">About</Link></li>
             </ul>
           </div>
         </div>
