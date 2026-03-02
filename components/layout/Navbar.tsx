@@ -7,6 +7,7 @@ export default function Navbar() {
   const [open, setOpen] = useState(false)
   const links = [
     { href: "/tools", label: "All Tools" },
+    { href: "/deals", label: "🔥 Deals" },
     { href: "/compare/jasper-ai-vs-writesonic", label: "Compare" },
     { href: "/blog", label: "Blog" },
     { href: "/free-guide", label: "Free Guide" },
